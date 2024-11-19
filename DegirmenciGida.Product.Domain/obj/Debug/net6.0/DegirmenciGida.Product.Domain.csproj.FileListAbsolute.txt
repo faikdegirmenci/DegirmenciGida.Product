@@ -1,0 +1,17 @@
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\DegirmenciGida.Product.Domain.deps.json
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\DegirmenciGida.Product.Domain.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\DegirmenciGida.Product.Domain.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\Persistence.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\Infrastructure.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\Persistence.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\bin\Debug\net6.0\Infrastructure.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.csproj.AssemblyReference.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.AssemblyInfoInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.AssemblyInfo.cs
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.csproj.CoreCompileInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\Degirmen.726FE054.Up2Date
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\refint\DegirmenciGida.Product.Domain.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\DegirmenciGida.Product.Domain.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Product\DegirmenciGida.Product.Domain\obj\Debug\net6.0\ref\DegirmenciGida.Product.Domain.dll

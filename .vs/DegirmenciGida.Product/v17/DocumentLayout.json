@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|solutionrelative:degirmencigida.product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\controllerstockstatus\\decreasestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\controllerstockstatus\\decreasestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\controllerstockstatus\\controllerstockstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\controllerstockstatus\\controllerstockstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\controllerstockstatus\\restorestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\controllerstockstatus\\restorestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\update\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\update\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\sagastep\\updateproductstockstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\sagastep\\updateproductstockstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\queries\\getbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\queries\\getbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|solutionrelative:degirmencigida.product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\messaging\\productrequestedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\messaging\\productrequestedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\commands\\delete\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\commands\\delete\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\queries\\getlist\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\queries\\getlist\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\messaging\\productrabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\messaging\\productrabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\queries\\getbyid\\getproductbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\queries\\getbyid\\getproductbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE92BAB9-7C0F-4931-BCDB-45C0E3B76A9A}|DegirmenciGida.Product.Domain\\DegirmenciGida.Product.Domain.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product.domain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE92BAB9-7C0F-4931-BCDB-45C0E3B76A9A}|DegirmenciGida.Product.Domain\\DegirmenciGida.Product.Domain.csproj|solutionrelative:degirmencigida.product.domain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.product.application\\queries\\getlist\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C2088-7892-4F2A-9656-23982E178CAE}|Degirmenci.Product.Application\\Degirmenci.Product.Application.csproj|solutionrelative:degirmenci.product.application\\queries\\getlist\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\dbcontextproduct\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\dbcontextproduct\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product\\degirmencigida.product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|solutionrelative:degirmencigida.product\\degirmencigida.product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmenci.gida.infrastructure\\degirmenci.gida.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:degirmenci.gida.infrastructure\\degirmenci.gida.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7A10D96-221B-41D8-8CBC-A0B4F7F5FA06}|DegirmenciGida.Product\\DegirmenciGida.Product.csproj|solutionrelative:degirmencigida.product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\operations\\deleteproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmenci.product.application\\operations\\deleteproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\operations\\addproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmenci.product.application\\operations\\addproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\operations\\getallproductsop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmenci.product.application\\operations\\getallproductsop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\operations\\updateproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmenci.product.application\\operations\\updateproductop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\c#konular\\microserviceseticaret\\degirmencigida.product\\degirmenci.product.application\\operations\\getproductbyidop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmenci.product.application\\operations\\getproductbyidop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A668F43-76E4-4ADB-AE67-6661C97FE205}|Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj|solutionrelative:Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\degirmencigida.product\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:degirmencigida.product\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DegirmenciGida.Product\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAhwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:40:42.827Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerStockStatusCommand.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\ControllerStockStatusCommand.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\ControllerStockStatusCommand.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\ControllerStockStatusCommand.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\ControllerStockStatusCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:24:11.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:21:07.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:44:48.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Services\\ProductService.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:48:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:56:09.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecreaseStockCommand.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\DecreaseStockCommand.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\DecreaseStockCommand.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\DecreaseStockCommand.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\DecreaseStockCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:29:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestoreStockCommand.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\RestoreStockCommand.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\RestoreStockCommand.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\RestoreStockCommand.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\ControllerStockStatus\\RestoreStockCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:33:30.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductStockStep.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\SagaStep\\UpdateProductStockStep.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\SagaStep\\UpdateProductStockStep.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\SagaStep\\UpdateProductStockStep.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\SagaStep\\UpdateProductStockStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:23:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:23:11.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Update\\UpdateProduct\\UpdateProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:36:08.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductByIdResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdResponse.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdResponse.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:02:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteProductResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Delete\\DeleteProductResponse.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Commands\\Delete\\DeleteProductResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Commands\\Delete\\DeleteProductResponse.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Commands\\Delete\\DeleteProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:26:28.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Program.cs",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product\\Program.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Program.cs",
+              "RelativeToolTip": "DegirmenciGida.Product\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwCQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:49.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:04:45.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRabbitMQService.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Messaging\\ProductRabbitMQService.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\Messaging\\ProductRabbitMQService.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Messaging\\ProductRabbitMQService.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\Messaging\\ProductRabbitMQService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:55:56.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRequestedEventHandler.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Messaging\\ProductRequestedEventHandler.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\Messaging\\ProductRequestedEventHandler.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Messaging\\ProductRequestedEventHandler.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\Messaging\\ProductRequestedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:53:48.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsQuery.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:32:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductByIdValidator.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:02:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241021123422_InitialCreate2.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\Migrations\\20241021123422_InitialCreate2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:34:23.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllProductsResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsResponse.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsResponse.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Queries\\GetList\\GetAllProductsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:41:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\DbContextProduct\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\DbContextProduct\\ProductDbContext.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\DbContextProduct\\ProductDbContext.cs",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\DbContextProduct\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:48:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteProductOp.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\DeleteProductOp.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Operations\\DeleteProductOp.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\DeleteProductOp.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Operations\\DeleteProductOp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:42:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddProductOp.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\AddProductOp.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Operations\\AddProductOp.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\AddProductOp.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Operations\\AddProductOp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:42:46.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product.Domain\\Products.cs",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product.Domain\\Products.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product.Domain\\Products.cs",
+              "RelativeToolTip": "DegirmenciGida.Product.Domain\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:40:52.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product\\Controllers\\BaseController.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "DegirmenciGida.Product\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:06:13.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllProductsOp.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\GetAllProductsOp.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Operations\\GetAllProductsOp.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\GetAllProductsOp.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Operations\\GetAllProductsOp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:42:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DegirmenciGida.Product.csproj",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\DegirmenciGida.Product.csproj",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product\\DegirmenciGida.Product.csproj",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\DegirmenciGida.Product.csproj",
+              "RelativeToolTip": "DegirmenciGida.Product\\DegirmenciGida.Product.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T10:56:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateProductOp.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\UpdateProductOp.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Operations\\UpdateProductOp.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\UpdateProductOp.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Operations\\UpdateProductOp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:42:52.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetProductByIdOp.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\GetProductByIdOp.cs",
+              "RelativeDocumentMoniker": "Degirmenci.Product.Application\\Operations\\GetProductByIdOp.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Product.Application\\Operations\\GetProductByIdOp.cs",
+              "RelativeToolTip": "Degirmenci.Product.Application\\Operations\\GetProductByIdOp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:42:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Degirmenci.Gida.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj",
+              "RelativeToolTip": "Degirmenci.Gida.Infrastructure\\Degirmenci.Gida.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T10:47:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\appsettings.json",
+              "RelativeDocumentMoniker": "DegirmenciGida.Product\\appsettings.json",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Product\\DegirmenciGida.Product\\appsettings.json",
+              "RelativeToolTip": "DegirmenciGida.Product\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T11:53:41.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

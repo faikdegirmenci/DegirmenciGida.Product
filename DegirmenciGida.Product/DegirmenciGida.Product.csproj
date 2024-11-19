@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Docker.DotNet" Version="3.125.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Degirmenci.Gida.Infrastructure\Degirmenci.Gida.Infrastructure.csproj" />
+    <ProjectReference Include="..\Degirmenci.Product.Application\Degirmenci.Product.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Application">
+      <HintPath>..\..\DegirmenciGida.Core\Application\bin\Debug\net6.0\Application.dll</HintPath>
+    </Reference>
+    <Reference Include="Infrastructure">
+      <HintPath>..\..\DegirmenciGida.Core\Infrastructure\bin\Debug\net6.0\Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Persistence">
+      <HintPath>..\..\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Persistence.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
